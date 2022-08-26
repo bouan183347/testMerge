@@ -8,5 +8,6 @@ namespace test
 {
     internal class testa
     {
+      string a ="test";
     }
 }
