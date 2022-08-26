@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "M:\\automne_2022\\projet\\testMerge\\test\\test\\test.csproj": {}
+  },
+  "projects": {
+    "M:\\automne_2022\\projet\\testMerge\\test\\test\\test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "M:\\automne_2022\\projet\\testMerge\\test\\test\\test.csproj",
+        "projectName": "test",
+        "projectPath": "M:\\automne_2022\\projet\\testMerge\\test\\test\\test.csproj",
+        "packagesPath": "C:\\Users\\1833347\\.nuget\\packages\\",
+        "outputPath": "M:\\automne_2022\\projet\\testMerge\\test\\test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\1833347\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
